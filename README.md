@@ -1,5 +1,7 @@
 *spray-jwt* is a set of utilities for [spray.io](http://spray.io), which perform signing and verification of a JSON Web Token (JWT).
 
+[![Build Status](https://travis-ci.org/PovilasID/spray-jwt.svg?branch=master)](https://travis-ci.org/PovilasID/spray-jwt)
+
 Getting Started
 ===============
 
