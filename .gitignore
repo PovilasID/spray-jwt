@@ -5,3 +5,5 @@ target
 
 *.iml
 
+## Directory-based project format:
+.idea/*
