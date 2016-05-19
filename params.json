@@ -1,0 +1,6 @@
+{
+  "name": "Spray-jwt",
+  "tagline": "JWT related directives for spray.io",
+  "body": "*spray-jwt* is a set of utilities for [spray.io](http://spray.io), which perform signing and verification of a JSON Web Token (JWT).\r\n\r\n[![Build Status](https://travis-ci.org/PovilasID/spray-jwt.svg?branch=master)](https://travis-ci.org/PovilasID/spray-jwt)[![Coverage Status](https://coveralls.io/repos/PovilasID/spray-jwt/badge.svg)](https://coveralls.io/r/PovilasID/spray-jwt)\r\n\r\nGetting Started\r\n===============\r\n\r\nAdd the following dependency,\r\n\r\n\tlibraryDependencies += \"com.github.kikuomax\" %% \"spray-jwt\" % \"0.0.1\"\r\n\r\nBinaries for Scala 2.10.x and 2.11.x are provided.\r\n\r\nExample\r\n=======\r\n\r\nPlease refer to [ExampleService](src/test/scala/com/github/kikuomax/spray/jwt/ExampleService.scala).\r\n\r\nJWT Library\r\n===========\r\n\r\n[Nimbus JOSE + JWT](http://connect2id.com/products/nimbus-jose-jwt) is used for generating and verifying JWTs.\r\n\r\nLicense\r\n=======\r\n\r\n[MIT License](http://opensource.org/licenses/MIT)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
